@@ -34,4 +34,3 @@ const App = () => (
 );
 
 export default App;
-</lov-add-dependency>framer-motion@10.18.0</lov-add-dependency>
